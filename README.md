@@ -10,7 +10,7 @@
 本项目包含三大类接口：基础接口、互动接口、社交接口。采用微服务架构以及 Docker 部署的方式。项目的数据库以及中间件均由 Docker 运行。
 
 
-[ApiFox开发文档](https://www.apifox.cn/apidoc/shared-7b33652d-6080-41bb-a70e-7a165d55daae/api-63185966)
+[ApiFox开发文档](https://www.apifox.cn/apidoc/shared-09d88f32-0b6c-4157-9d07-a36d32d7a75c/api-50707523)
 
 ## 2.2 架构设计
 
